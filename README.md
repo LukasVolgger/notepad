@@ -5,14 +5,35 @@ This is a learning project from the Frontend Web Development course of the <a hr
 <b>IMPORTANT:</b> Please note that learning projects focus on the given tasks. It is therefore possible that some functions do not work or are not scripted.
 <h3>Table of Contents</h3>
 
+- <a href="#features">Features</a>
 - <a href="#preview">Preview</a>
 - <a href="#installation">Installation</a>
 - <a href="#license">License</a>
 
+<h2 id="features">Features</h2>
+Here is an overview of the most important functions of the project. Click on the summary to expand.<br>
+
+<br>
+<details><summary><b>Available Languages</b></summary>
+  
+- [X] German
+  
+</details>
+
+<details><summary><b>Functionality</b></summary>
+  
+- [X] Toggle Darkmode
+- [X] Add notes and save to local storage
+- [X] Depending on which background color is selected for a note, the font color changes
+- [X] Deleted notes are stored in trash
+- [X] Restore or finally delete notes from trash
+- [X] Responsive Webdesign
+  
+</details>
+
 <h2 id="preview">Preview</h2>
 
 ![This is an image](/img/preview/main_preview.png)
-![This is an image](/img/preview/notes_preview_light.png)
 ![This is an image](/img/preview/notes_preview_darkmode.png)
 
 <h2 id="installation">Installation</h2>
